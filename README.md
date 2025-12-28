@@ -13,3 +13,7 @@ Performed exploratory data analysis on transactional customer data to understand
 
 ## Key Insight
 Exposed repeat purchase patterns and pricing trends, highlighting opportunities to boost revenue and improve customer engagement.
+
+Notebook (Google Colab)
+Access the full Python notebook here: 
+https://colab.research.google.com/drive/1OXoWrQJSkBpA01GARLHkBd6sTvxonN5E?usp=sharing
